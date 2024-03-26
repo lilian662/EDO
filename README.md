@@ -1,1 +1,1 @@
-Códigos para elaborar gráficas.
+Códigos para elaborar gráficas de sistemas dinámicos.
